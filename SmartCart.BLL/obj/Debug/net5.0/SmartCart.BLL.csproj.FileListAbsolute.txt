@@ -1,0 +1,15 @@
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\bin\Debug\net5.0\SmartCart.BLL.deps.json
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\bin\Debug\net5.0\SmartCart.BLL.dll
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\bin\Debug\net5.0\ref\SmartCart.BLL.dll
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\bin\Debug\net5.0\SmartCart.BLL.pdb
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\bin\Debug\net5.0\SmartCart.DAl.dll
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\bin\Debug\net5.0\SmartCart.DAl.pdb
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.csproj.AssemblyReference.cache
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.AssemblyInfoInputs.cache
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.AssemblyInfo.cs
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.csproj.CoreCompileInputs.cache
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.csproj.CopyComplete
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.dll
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\ref\SmartCart.BLL.dll
+E:\WW_CART\2-ASP.NetCoreApi\SmartCartApi\SmartCart.BLL\obj\Debug\net5.0\SmartCart.BLL.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCart.Api", "SmartCartApi\SmartCart.Api.csproj", "{3C95604A-3974-41BB-96B0-DE8A99BA2953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCart.DAl", "SmartCart.DAl\SmartCart.DAl.csproj", "{7C2C33AD-667E-493D-8C45-F51B1F4297A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCart.BLL", "SmartCart.BLL\SmartCart.BLL.csproj", "{16626DAB-E50E-474F-934B-9E3ED2BB8266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C95604A-3974-41BB-96B0-DE8A99BA2953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C95604A-3974-41BB-96B0-DE8A99BA2953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C95604A-3974-41BB-96B0-DE8A99BA2953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C95604A-3974-41BB-96B0-DE8A99BA2953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2C33AD-667E-493D-8C45-F51B1F4297A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2C33AD-667E-493D-8C45-F51B1F4297A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2C33AD-667E-493D-8C45-F51B1F4297A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2C33AD-667E-493D-8C45-F51B1F4297A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16626DAB-E50E-474F-934B-9E3ED2BB8266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16626DAB-E50E-474F-934B-9E3ED2BB8266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16626DAB-E50E-474F-934B-9E3ED2BB8266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16626DAB-E50E-474F-934B-9E3ED2BB8266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A6035C4-A55B-4D61-A689-374346A44A84}
+	EndGlobalSection
+EndGlobal
